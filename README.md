@@ -2,7 +2,7 @@ India, a country with diverse water bodies ranging from mighty rivers to small s
 
 Water quality is a critical aspect for both drinking water and marine life, as various parameters significantly impact the suitability of water for these purposes. Here are the key parameters and their typical acceptable ranges or conditions for both drinking water and marine life:
 
-Drinking Water Quality Parameters
+Drinking Water Quality Parameters --
 
 Temperature:
 Generally should be ambient and consistent. High temperatures can affect taste and increase the growth of microorganisms.
@@ -32,7 +32,7 @@ Total Coliforms:
 Should be less than 1 CFU/100 mL. Total coliforms are used as indicators of overall water sanitation quality.
 
 
-Marine Life Water Quality Parameters
+Marine Life Water Quality Parameters --
 
 Temperature:
 Varies depending on the species and habitat. Generally, marine life thrives in water that is within the natural temperature range of their environment.
