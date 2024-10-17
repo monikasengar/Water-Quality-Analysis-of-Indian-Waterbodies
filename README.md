@@ -1,4 +1,5 @@
 India, a country with diverse water bodies ranging from mighty rivers to small streams, faces significant challenges in maintaining water quality. The quality of water varies drastically across different states and union territories due to factors such as industrial discharge, agricultural runoff, and untreated sewage. This comprehensive analysis examines water quality on both a state-wise and river-wise basis across India.
+
 Water quality is a critical aspect for both drinking water and marine life, as various parameters significantly impact the suitability of water for these purposes. Here are the key parameters and their typical acceptable ranges or conditions for both drinking water and marine life:
 
 Drinking Water Quality Parameters
